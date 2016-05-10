@@ -1,6 +1,6 @@
-# ||============||
-# ||  Ritzcoin  ||
-Ritzcoin the new cryptocurrency
+# Ritzcoin
+
+Ritzcoin: The New Cryptocurrency
 
 ## What is Ritzcoin?
 Ritzcoin is a cryptocurrency like Bitcoin. Taking development cues from Bitcoin and Litecoin, Ritzcoin currently employs a simplified variant of scrypt.
