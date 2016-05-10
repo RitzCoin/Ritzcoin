@@ -1,7 +1,7 @@
 RitzCoin 0.8.x BETA
 
 Copyright (c) 2009-2013 Bitcoin Developers
-Copyright (c) 2011-2013 RitzCoin Developers
+Copyright (c) 2011-2016 RitzCoin Developers
 Distributed under the MIT/X11 software license, see the accompanying
 file COPYING or http://www.opensource.org/licenses/mit-license.php.
 This product includes software developed by the OpenSSL Project for use in
