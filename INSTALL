@@ -1,0 +1,9 @@
+Building RitzCoin
+
+See doc/readme-qt.rst for instructions on building RitzCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of RitzCoin.
+
+See doc/build-*.txt for instructions on building RitzCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of RitzCoin.
