@@ -1,4 +1,4 @@
-# Ritzcoin
+# ||  Ritzcoin  ||
 Ritzcoin the new cryptocurrency
 
 ## What is Ritzcoin?
