@@ -16,7 +16,7 @@ Development is ongoing, and the development team, as well as other volunteers, c
 ## Frequently Asked Questions
 
 ### How much Ritzcoin can exist? 
-Early 2025 (approximately a year and a half after release) there will be approximately 150,000,000 coins.
+Early 2025 (approximately ten years after release) there will be approximately 150,000,000 coins.
 Each subsequent block will grant 70 coins to encourage miners to continue to secure the network and make up for lost wallets on hard drives/phones/lost encryption passwords/etc.
 
 ### How to get Ritzcoin?
