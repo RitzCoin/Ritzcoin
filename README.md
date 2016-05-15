@@ -21,7 +21,7 @@ Early 2025 (approximately ten years after release) there will be approximately 1
 Each subsequent block will grant 70 coins to encourage miners to continue to secure the network and make up for lost wallets on hard drives/phones/lost encryption passwords/etc.
 
 ### How to get Ritzcoin?
-Ritzcoin uses a simplified variant of the scrypt key derivation function as its proof of work with a target time of one minute per block and difficulty readjustment after every block. The block rewards are fixed and halve every 1,000,000 blocks. Starting with the 142,858th block, a permanent reward of 70 Dogecoin per block will be paid. 
+Ritzcoin uses a simplified variant of the scrypt key derivation function as its proof of work with a target time of one minute per block and difficulty readjustment after every block. The block rewards are fixed and halve every 1,000,000 blocks. Starting with the 142,858th block, a permanent reward of 70 Ritzcoin per block will be paid. 
 
 Originally, a different payout scheme was envisioned with block rewards being determined by taking the maximum reward as per the block schedule and applying the result of a Mersenne Twister pseudo-random number generator to arrive at a number between 0 and the maximum reward. This was changed, starting with block 145,000, to prevent large pools from gaming the system and mining only high reward blocks. At the same time, the difficulty retargeting was also changed from four hours to once per block (every minute), implementing an algorithm to lessen the impact of sudden increases and decreases of network hashing rate.
 
