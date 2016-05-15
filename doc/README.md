@@ -30,10 +30,6 @@ Unpack the files into a directory and run:
 - bin/64/RitzCoin-qt (GUI, 64-bit)
 - bin/64/RitzCoind (headless, 64-bit)
 
-See the documentation at the [RitzCoin Wiki](http://RitzCoin.info)
-for help and more information.
-
-
 Other Pages
 ---------------------
 - [Unix Build Notes](build-unix.md)
